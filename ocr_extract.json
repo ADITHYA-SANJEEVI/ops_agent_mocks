@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "name": "Ravi Kumar",
+    "dob": "1991-03-12",
+    "address": "12, 5th Main Rd, Chennai",
+    "id_number": "ABCDE1234F",
+    "expiry": "2030-12-31",
+    "id_photo_url": "https://picsum.photos/seed/idphoto/256"
+  },
+  "ocr_confidence": 0.88
+}
